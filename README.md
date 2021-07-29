@@ -1,0 +1,1 @@
+# ecce-proposal-template
